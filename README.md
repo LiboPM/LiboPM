@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/LiboPM/LiboPM"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+</p>
+
 <!--
 **LiboPM/LiboPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
