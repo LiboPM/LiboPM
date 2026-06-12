@@ -1,36 +1,89 @@
-![](assets/Bottom_up.svg)
+<img width="100%" src="assets/Bottom_up.svg">
 
-<!--   my-icons -->
+<!-- typing animation -->
 <p align="center">
-    <a href="https://github.com/LiboPM/LiboPM"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.13-FF1493.svg"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=%236BCBF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+LiBo;LLM+Algorithm+Engineer;Training+%26+Inference+Optimization;Always+pushing+the+limits+of+AI" alt="Typing SVG">
+  </a>
 </p>
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+LiBo;Always+learning+new+things+;)](https://git.io/typing-svg)
+<!-- about me -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Large%20Language%20Models-9B59B6?style=for-the-badge&logo=OpenAI&logoColor=white">
+  <img src="https://img.shields.io/badge/Role-Algorithm%20Engineer-E74C3C?style=for-the-badge&logo=Brain&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
 
-<!--   my-skils -->
+---
 
-| Property                                        | Data     
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Matlab-3776AB?style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **OS**                                          | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a>                                                                                                                                                                                                                                                                           |
-| **Machine Learning / Deep Learning frameworks** | ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
+### 🧠 About Me
 
-<!--   GitHub stats graph -->
+- 🔥 LLM Algorithm Engineer — Pre-training, SFT, RLHF, Inference Optimization
+- 🏗️ Building & optimizing large-scale model training & serving pipelines
+- ⚡ Passionate about making models faster, smarter, and more efficient
+- 🌱 Currently exploring: MoE architectures, long-context techniques, speculative decoding
 
-<!--
-**LiboPM/LiboPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="160"><strong>Languages</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><strong>Training</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=Hugging%20Face&logoColor=black">
+  <img src="https://img.shields.io/badge/-DeepSpeed-0091EA?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/-Megatron-FF6F00?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/-FSDP-3776AB?style=flat-square&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><strong>Inference</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/-vLLM-7B2D8E?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=NVIDIA&logoColor=white">
+  <img src="https://img.shields.io/badge/-Triton-FF6F00?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/-ONNX-005571?style=flat-square&logoColor=white">
+</td>
+</tr>
+<tr>
+<td><strong>Tooling</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logoColor=black">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LiboPM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6BCBF7&icon_color=9B59B6&text_color=C9D1D9">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=LiboPM&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6BCBF7&fire=9B59B6&currStreakLabel=6BCBF7&sideLabels=C9D1D9&dates=C9D1D9">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiboPM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6BCBF7&text_color=C9D1D9">
+</p>
+
+<!-- snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake-dark.svg">
+</picture>
