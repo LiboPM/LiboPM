@@ -70,20 +70,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LiboPM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6BCBF7&icon_color=9B59B6&text_color=C9D1D9">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=LiboPM&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6BCBF7&fire=9B59B6&currStreakLabel=6BCBF7&sideLabels=C9D1D9&dates=C9D1D9">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiboPM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6BCBF7&text_color=C9D1D9">
-</p>
-
-<!-- snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LiboPM/LiboPM/output/github-snake-dark.svg">
-</picture>
